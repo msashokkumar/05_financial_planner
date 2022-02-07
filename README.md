@@ -81,7 +81,7 @@ The jupyter homepage will look like as follows:
 
 ![Jupyter Lab Homepage](/Images/02_jupyter_labs_homepage.png?raw=true "Jupyter homepage.")
 
-From the file browser on the left side, open risk_return_analysis.ipynb.
+From the file browser on the left side, open financial_planning_tools.ipynb.
 
 ---
 ## Contributors
